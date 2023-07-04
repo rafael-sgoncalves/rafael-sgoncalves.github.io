@@ -8,7 +8,7 @@ on:
   pull_request:
     branches:
       - master
-      - source
+      - main
   workflow_dispatch:
 
 permissions:

@@ -4,11 +4,13 @@ on:
   push:
     branches:
       - master
-      - main
+      - source
+      - gh-pages
   pull_request:
     branches:
       - master
       - main
+      - gh-pages
   workflow_dispatch:
 
 permissions:

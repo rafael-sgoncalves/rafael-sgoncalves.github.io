@@ -29,8 +29,8 @@ jobs:
       run: |
         # npm install -g mermaid.cli
         npm install -g @mermaid-js/mermaid-cli
-        export JEKYLL_ENV=production
         bundle add webrick
+        export JEKYLL_ENV=production
         bundle exec jekyll build
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'

@@ -27,7 +27,7 @@ jobs:
         bundler-cache: true
     - name: Install and Build 🔧
       run: |
-        # npm install -g mermaid.cli
+       
         npm install -g @mermaid-js/mermaid-cli
         export JEKYLL_ENV=production
         bundle add webrick

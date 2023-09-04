@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, behavioral economics and finance. 
+I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, behavioral economics and finance.
 
-You can contact me at rgoncalves@princeton.edu.
+ You can contact me at rgoncalves@princeton.edu.
 
 
 

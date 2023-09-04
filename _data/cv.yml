@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Rafael da Silva Gonçalves
+      - name: Nationality
+      value: Brazilian
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Programming
-      value: Julia, Python, Matlab, Stata, R
+      value: Julia, Python, Matlab, R, Stata
     - name: Languages
       value: english (fluent), portuguese (native), spanish (intermediate), french (intermediate)
 

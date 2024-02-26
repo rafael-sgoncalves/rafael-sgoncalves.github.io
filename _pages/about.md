@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, finance and behavioral economics.
 
- You can contact me at <a href="rgoncalves@princeton.edu" >.
+ You can contact me at rgoncalves@princeton.edu.
 
 
 

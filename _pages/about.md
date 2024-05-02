@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: foto_perfil.jpg
+  image: best_profile_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
     20 Washington Road

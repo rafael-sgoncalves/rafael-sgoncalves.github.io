@@ -8,7 +8,7 @@ middle_name: S.
 last_name: Gonçalves
 email: rgoncalves@princeton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student in Economics at Princeton University. Interested in macroeconomics and monetary economics.
+  PhD student in Economics at Princeton University. Interested in macroeconomics, finance, and imperfect expectations.
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

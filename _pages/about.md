@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: foto_perfil.jpg
+  image: best_profile_pic 
   image_circular: true # crops the image to make it circular
   address: >
     
@@ -17,9 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, finance and behavioral economics.
+I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, finance, and imperfect expectations.
 
- You can contact me at rgoncalves@princeton.edu.
+My full CV can be found [here](assets/pdf/CV_dec24.pdf).
+You can contact me at rgoncalves@princeton.edu.
 
 
 

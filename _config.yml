@@ -8,7 +8,7 @@ middle_name: S.
 last_name: Gonçalves
 email: rgoncalves@princeton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student in Economics at Princeton University. Interested in macroeconomics, finance, and expectation formation.
+  PhD student in Economics at Princeton University. Interested in macroeconomics, finance, and imperfect expectations.
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -295,7 +295,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by:
+  group_by: year
   group_order: descending
 
 badges: # Display different badges for your publications
@@ -303,7 +303,7 @@ badges: # Display different badges for your publications
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, url, website, preview, altmetric]
+filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3  # leave blank to always show all authors
@@ -355,7 +355,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
+enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification

@@ -36,7 +36,7 @@ body.sticky-bottom-footer {
 .profile img {
   width: 150px;     /* Adjust width as desired */
   height: 200px;    /* Adjust height as desired */
-  // object-fit: cover; /* Optional: ensures the image fills the space */
+  object-fit: cover; /* Optional: ensures the image fills the space */
   border-radius: 0;  /* Optional: removes rounded corners */
 }
 

@@ -21,7 +21,3 @@ I am a PhD student in Economics at Princeton University. My research interests a
 
 My full CV can be found [here](assets/pdf/CV_may25.pdf).
 You can contact me at [rgoncalves@princeton.edu](mailto:rgoncalves@princeton.edu).
-
-
-
-

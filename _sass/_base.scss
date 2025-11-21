@@ -236,7 +236,7 @@ blockquote {
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
       }
 
       &:hover {
@@ -310,7 +310,7 @@ blockquote {
     a {
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
       }
 
       &:hover {
@@ -683,10 +683,9 @@ footer.sticky-bottom {
         max-height: 0px;
         overflow: hidden;
         text-align: justify;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
+        -moz-transition: all 0.15s ease;
+        -ms-transition: all 0.15s ease;
+        -o-transition: all 0.15s ease;
         transition: all 0.15s ease;
 
         p {
@@ -703,10 +702,9 @@ footer.sticky-bottom {
 
       .hidden.open {
         max-height: 100em;
-        transition-property: 0.15s ease;
-        -moz-transition: 0.15s ease;
-        -ms-transition: 0.15s ease;
-        -o-transition: 0.15s ease;
+        -moz-transition: all 0.15s ease;
+        -ms-transition: all 0.15s ease;
+        -o-transition: all 0.15s ease;
         transition: all 0.15s ease;
       }
 

@@ -3,6 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 4
-cv_pdf: CV_dec25.pdf
+nav_order: 2
+cv_pdf: cv.pdf
+nav_url: /assets/pdf/cv.pdf
 ---

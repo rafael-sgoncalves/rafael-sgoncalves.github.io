@@ -9,3 +9,13 @@ _site
 Gemfile.lock
 vendor
 
+# LaTeX build artifacts (CV is built in _cv/; cv.tex source is tracked,
+# served PDF lives at assets/pdf/cv.pdf)
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+_cv/cv.pdf
+

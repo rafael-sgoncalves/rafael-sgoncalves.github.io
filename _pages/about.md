@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: best_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, finance, and expectation formation.
 
-My full CV can be found [here](assets/pdf/CV_dec25.pdf).
+My full CV can be found [here](assets/pdf/cv.pdf).
 You can contact me at [rgoncalves@princeton.edu](mailto:rgoncalves@princeton.edu).

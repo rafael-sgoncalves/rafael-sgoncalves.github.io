@@ -1,0 +1,26 @@
+---
+layout: none
+# layout: cv          # original — re-enable to restore the on-site HTML CV (and remove layout: none + the redirect body)
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 2
+nav_url: /assets/pdf/cv.pdf
+# cv_pdf: cv.pdf       # original — only used by the cv layout; re-enable when restoring layout: cv
+# To restore the on-site HTML CV: un-comment the two lines above, remove `layout: none`,
+# delete the redirect body below, drop `nav_url`, and uncomment entries in _data/cv.yml.
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/cv.pdf' | relative_url }}">
+    <link rel="canonical" href="{{ '/assets/pdf/cv.pdf' | relative_url }}">
+    <title>Redirecting to CV…</title>
+  </head>
+  <body>
+    <p>Redirecting to <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}">my CV</a>. If you are not redirected, click the link.</p>
+    <script>window.location.replace("{{ '/assets/pdf/cv.pdf' | relative_url }}");</script>
+  </body>
+</html>

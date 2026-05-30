@@ -8,6 +8,7 @@ _site
 .tweet-cache
 Gemfile.lock
 vendor
+state.md
 
 # LaTeX build artifacts (CV is built in _cv/; cv.tex source is tracked,
 # served PDF lives at assets/pdf/cv.pdf)

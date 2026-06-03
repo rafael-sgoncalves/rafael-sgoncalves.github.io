@@ -19,5 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in Economics at Princeton University. My research interests are in macroeconomics, finance, and expectation formation.
 
+During Summer 2026, I will be a Dissertation Fellow at the Federal Reserve Board (Macroeconomic and Quantitative Studies Section).
+
 My full CV can be found [here](assets/pdf/cv.pdf).
 You can contact me at [rgoncalves@princeton.edu](mailto:rgoncalves@princeton.edu).

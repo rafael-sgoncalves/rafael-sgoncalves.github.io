@@ -1,18 +1,17 @@
+<h2 class="section-heading">Working Papers</h2>
+<hr class="section-divider">
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=working]* %}
+</div>
 
-          <h2 class="section-heading">Working Papers</h2>
-          <hr class="section-divider">
-          <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=working]* %}
-          </div>
+<h2 class="section-heading">Publications</h2>
+<hr class="section-divider">
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=publication]* %}
+</div>
 
-          <h2 class="section-heading">Publications</h2>
-          <hr class="section-divider">
-          <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=publication]* %}
-          </div>
-
-          <h2 class="section-heading">Work in Progress</h2>
-          <hr class="section-divider">
-          <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=wip]* %}
-          </div>
+<h2 class="section-heading">Work in Progress</h2>
+<hr class="section-divider">
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[category=wip]* %}
+</div>
